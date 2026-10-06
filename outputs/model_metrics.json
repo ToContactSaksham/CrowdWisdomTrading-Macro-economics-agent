@@ -1,0 +1,48 @@
+{
+  "target": "y_pnl",
+  "forecast_horizon_days": 7,
+  "min_train_days": 60,
+  "step_days": 7,
+  "top_k": 5,
+  "models": {
+    "lgbm": {
+      "folds": 17,
+      "rmse": 342.7799,
+      "mae": 257.2149,
+      "spearman_ic_mean": 0.1395,
+      "spearman_ic_std": 0.1733,
+      "ic_positive_share": 0.8235,
+      "hit_rate_sign": 0.5784,
+      "topk_realised_mean": 96.6586,
+      "all_realised_mean": 60.8093,
+      "trailing_topk_realised_mean": 112.3465,
+      "ic_t_stat": 3.3192
+    },
+    "ridge": {
+      "folds": 17,
+      "rmse": 332.1892,
+      "mae": 254.559,
+      "spearman_ic_mean": 0.1659,
+      "spearman_ic_std": 0.1621,
+      "ic_positive_share": 0.8824,
+      "hit_rate_sign": 0.5711,
+      "topk_realised_mean": 141.0151,
+      "all_realised_mean": 60.8093,
+      "trailing_topk_realised_mean": 112.3465,
+      "ic_t_stat": 4.2201
+    },
+    "trailing": {
+      "folds": 17,
+      "rmse": 352.7456,
+      "mae": 269.1464,
+      "spearman_ic_mean": 0.1119,
+      "spearman_ic_std": 0.2141,
+      "ic_positive_share": 0.6471,
+      "hit_rate_sign": 0.5613,
+      "topk_realised_mean": 112.3465,
+      "all_realised_mean": 60.8093,
+      "trailing_topk_realised_mean": 112.3465,
+      "ic_t_stat": 2.1539
+    }
+  }
+}

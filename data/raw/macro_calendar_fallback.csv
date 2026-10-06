@@ -1,0 +1,160 @@
+event_time_utc,event_time_est,event_date,event_name,event_key,category,direction,country,actual,forecast,previous,importance,source
+2026-04-10 14:00:00+00:00,2026-04-10 10:00:00-04:00,2026-04-10,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,52.1,60.0,56.3,medium,synthetic_fallback
+2026-04-14 12:30:00+00:00,2026-04-14 08:30:00-04:00,2026-04-14,CPI m/m,cpi,inflation,-1,US,0.3,0.2,0.2,high,synthetic_fallback
+2026-04-14 12:30:00+00:00,2026-04-14 08:30:00-04:00,2026-04-14,Core CPI m/m,core_cpi,inflation,-1,US,0.3,0.2,0.3,high,synthetic_fallback
+2026-04-14 12:30:00+00:00,2026-04-14 08:30:00-04:00,2026-04-14,CPI y/y,cpi,inflation,-1,US,3.0,2.9,3.0,high,synthetic_fallback
+2026-04-15 12:30:00+00:00,2026-04-15 08:30:00-04:00,2026-04-15,PPI m/m,ppi,inflation,-1,US,0.4,0.2,0.3,medium,synthetic_fallback
+2026-04-16 12:30:00+00:00,2026-04-16 08:30:00-04:00,2026-04-16,Unemployment Claims,other,other,0,US,245000.0,225000.0,223000.0,medium,synthetic_fallback
+2026-04-23 12:30:00+00:00,2026-04-23 08:30:00-04:00,2026-04-23,Advance GDP q/q,gdp,growth,1,US,0.0,2.0,1.8,high,synthetic_fallback
+2026-04-23 12:30:00+00:00,2026-04-23 08:30:00-04:00,2026-04-23,Unemployment Claims,other,other,0,US,238000.0,225000.0,226000.0,medium,synthetic_fallback
+2026-04-23 12:30:00+00:00,2026-04-23 08:30:00-04:00,2026-04-23,Retail Sales m/m,retail_sales,growth,1,US,-0.1,0.3,0.4,medium,synthetic_fallback
+2026-04-24 12:30:00+00:00,2026-04-24 08:30:00-04:00,2026-04-24,Core PCE Price Index m/m,pce,inflation,-1,US,0.3,0.2,0.3,high,synthetic_fallback
+2026-04-28 14:00:00+00:00,2026-04-28 10:00:00-04:00,2026-04-28,CB Consumer Confidence,consumer_confidence,sentiment,1,US,95.6,95.0,97.7,medium,synthetic_fallback
+2026-04-29 18:00:00+00:00,2026-04-29 14:00:00-04:00,2026-04-29,FOMC Statement / Federal Funds Rate,fomc,monetary_policy,-1,US,3.75,3.75,3.75,high,synthetic_fallback
+2026-04-30 12:30:00+00:00,2026-04-30 08:30:00-04:00,2026-04-30,Unemployment Claims,other,other,0,US,245000.0,225000.0,232000.0,medium,synthetic_fallback
+2026-05-01 12:30:00+00:00,2026-05-01 08:30:00-04:00,2026-05-01,Non-Farm Employment Change,nfp,employment,1,US,10000.0,150000.0,155000.0,high,synthetic_fallback
+2026-05-01 12:30:00+00:00,2026-05-01 08:30:00-04:00,2026-05-01,Unemployment Rate,unemployment_rate,employment,-1,US,4.3,4.2,4.3,high,synthetic_fallback
+2026-05-01 12:30:00+00:00,2026-05-01 08:30:00-04:00,2026-05-01,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.4,0.3,0.4,medium,synthetic_fallback
+2026-05-01 14:00:00+00:00,2026-05-01 10:00:00-04:00,2026-05-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,46.6,49.0,50.3,medium,synthetic_fallback
+2026-05-05 14:00:00+00:00,2026-05-05 10:00:00-04:00,2026-05-05,ISM Services PMI,ism_services,growth,1,US,50.2,52.0,53.7,medium,synthetic_fallback
+2026-05-05 14:00:00+00:00,2026-05-05 10:00:00-04:00,2026-05-05,JOLTS Job Openings,jolts,employment,1,US,6660000.0,7300000.0,7520000.0,medium,synthetic_fallback
+2026-05-07 12:30:00+00:00,2026-05-07 08:30:00-04:00,2026-05-07,Unemployment Claims,other,other,0,US,220000.0,225000.0,205000.0,medium,synthetic_fallback
+2026-05-08 14:00:00+00:00,2026-05-08 10:00:00-04:00,2026-05-08,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,60.8,60.0,59.1,medium,synthetic_fallback
+2026-05-12 12:30:00+00:00,2026-05-12 08:30:00-04:00,2026-05-12,CPI y/y,cpi,inflation,-1,US,3.2,2.9,2.9,high,synthetic_fallback
+2026-05-12 12:30:00+00:00,2026-05-12 08:30:00-04:00,2026-05-12,Core CPI m/m,core_cpi,inflation,-1,US,0.3,0.2,0.4,high,synthetic_fallback
+2026-05-12 12:30:00+00:00,2026-05-12 08:30:00-04:00,2026-05-12,CPI m/m,cpi,inflation,-1,US,0.3,0.2,0.0,high,synthetic_fallback
+2026-05-13 12:30:00+00:00,2026-05-13 08:30:00-04:00,2026-05-13,PPI m/m,ppi,inflation,-1,US,0.4,0.2,-0.0,medium,synthetic_fallback
+2026-05-14 12:30:00+00:00,2026-05-14 08:30:00-04:00,2026-05-14,Unemployment Claims,other,other,0,US,236000.0,225000.0,236000.0,medium,synthetic_fallback
+2026-05-20 12:30:00+00:00,2026-05-20 08:30:00-04:00,2026-05-20,Retail Sales m/m,retail_sales,growth,1,US,0.5,0.3,0.0,medium,synthetic_fallback
+2026-05-21 12:30:00+00:00,2026-05-21 08:30:00-04:00,2026-05-21,Unemployment Claims,other,other,0,US,220000.0,225000.0,208000.0,medium,synthetic_fallback
+2026-05-26 14:00:00+00:00,2026-05-26 10:00:00-04:00,2026-05-26,CB Consumer Confidence,consumer_confidence,sentiment,1,US,88.5,95.0,93.7,medium,synthetic_fallback
+2026-05-28 12:30:00+00:00,2026-05-28 08:30:00-04:00,2026-05-28,Advance GDP q/q,gdp,growth,1,US,1.1,2.0,2.2,high,synthetic_fallback
+2026-05-28 12:30:00+00:00,2026-05-28 08:30:00-04:00,2026-05-28,Unemployment Claims,other,other,0,US,232000.0,225000.0,233000.0,medium,synthetic_fallback
+2026-05-29 12:30:00+00:00,2026-05-29 08:30:00-04:00,2026-05-29,Core PCE Price Index m/m,pce,inflation,-1,US,0.4,0.2,0.4,high,synthetic_fallback
+2026-06-01 14:00:00+00:00,2026-06-01 10:00:00-04:00,2026-06-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,48.2,49.0,51.0,medium,synthetic_fallback
+2026-06-02 14:00:00+00:00,2026-06-02 10:00:00-04:00,2026-06-02,JOLTS Job Openings,jolts,employment,1,US,7140000.0,7300000.0,7470000.0,medium,synthetic_fallback
+2026-06-03 14:00:00+00:00,2026-06-03 10:00:00-04:00,2026-06-03,ISM Services PMI,ism_services,growth,1,US,50.8,52.0,51.6,medium,synthetic_fallback
+2026-06-04 12:30:00+00:00,2026-06-04 08:30:00-04:00,2026-06-04,Unemployment Claims,other,other,0,US,249000.0,225000.0,230000.0,medium,synthetic_fallback
+2026-06-05 12:30:00+00:00,2026-06-05 08:30:00-04:00,2026-06-05,Unemployment Rate,unemployment_rate,employment,-1,US,4.3,4.2,4.2,high,synthetic_fallback
+2026-06-05 12:30:00+00:00,2026-06-05 08:30:00-04:00,2026-06-05,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.4,0.3,0.2,medium,synthetic_fallback
+2026-06-05 12:30:00+00:00,2026-06-05 08:30:00-04:00,2026-06-05,Non-Farm Employment Change,nfp,employment,1,US,75000.0,150000.0,140000.0,high,synthetic_fallback
+2026-06-11 12:30:00+00:00,2026-06-11 08:30:00-04:00,2026-06-11,Unemployment Claims,other,other,0,US,232000.0,225000.0,217000.0,medium,synthetic_fallback
+2026-06-12 12:30:00+00:00,2026-06-12 08:30:00-04:00,2026-06-12,CPI y/y,cpi,inflation,-1,US,3.0,2.9,2.8,high,synthetic_fallback
+2026-06-12 12:30:00+00:00,2026-06-12 08:30:00-04:00,2026-06-12,CPI m/m,cpi,inflation,-1,US,0.3,0.2,0.3,high,synthetic_fallback
+2026-06-12 12:30:00+00:00,2026-06-12 08:30:00-04:00,2026-06-12,Core CPI m/m,core_cpi,inflation,-1,US,0.3,0.2,0.3,high,synthetic_fallback
+2026-06-12 14:00:00+00:00,2026-06-12 10:00:00-04:00,2026-06-12,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,57.6,60.0,60.8,medium,synthetic_fallback
+2026-06-13 12:30:00+00:00,2026-06-13 08:30:00-04:00,2026-06-13,PPI m/m,ppi,inflation,-1,US,0.1,0.2,0.1,medium,synthetic_fallback
+2026-06-16 12:30:00+00:00,2026-06-16 08:30:00-04:00,2026-06-16,Retail Sales m/m,retail_sales,growth,1,US,0.2,0.3,0.5,medium,synthetic_fallback
+2026-06-17 18:00:00+00:00,2026-06-17 14:00:00-04:00,2026-06-17,FOMC Statement / Federal Funds Rate,fomc,monetary_policy,-1,US,3.75,3.75,3.75,high,synthetic_fallback
+2026-06-18 12:30:00+00:00,2026-06-18 08:30:00-04:00,2026-06-18,Unemployment Claims,other,other,0,US,229000.0,225000.0,222000.0,medium,synthetic_fallback
+2026-06-23 14:00:00+00:00,2026-06-23 10:00:00-04:00,2026-06-23,CB Consumer Confidence,consumer_confidence,sentiment,1,US,92.5,95.0,92.7,medium,synthetic_fallback
+2026-06-25 12:30:00+00:00,2026-06-25 08:30:00-04:00,2026-06-25,Unemployment Claims,other,other,0,US,214000.0,225000.0,243000.0,medium,synthetic_fallback
+2026-06-25 12:30:00+00:00,2026-06-25 08:30:00-04:00,2026-06-25,Advance GDP q/q,gdp,growth,1,US,0.6,2.0,1.5,high,synthetic_fallback
+2026-06-26 12:30:00+00:00,2026-06-26 08:30:00-04:00,2026-06-26,Core PCE Price Index m/m,pce,inflation,-1,US,0.3,0.2,0.2,high,synthetic_fallback
+2026-07-01 14:00:00+00:00,2026-07-01 10:00:00-04:00,2026-07-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,49.3,49.0,49.7,medium,synthetic_fallback
+2026-07-02 12:30:00+00:00,2026-07-02 08:30:00-04:00,2026-07-02,Unemployment Claims,other,other,0,US,231000.0,225000.0,235000.0,medium,synthetic_fallback
+2026-07-03 12:30:00+00:00,2026-07-03 08:30:00-04:00,2026-07-03,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.4,0.3,0.3,medium,synthetic_fallback
+2026-07-03 12:30:00+00:00,2026-07-03 08:30:00-04:00,2026-07-03,Non-Farm Employment Change,nfp,employment,1,US,212000.0,150000.0,160000.0,high,synthetic_fallback
+2026-07-03 12:30:00+00:00,2026-07-03 08:30:00-04:00,2026-07-03,Unemployment Rate,unemployment_rate,employment,-1,US,3.9,4.2,4.3,high,synthetic_fallback
+2026-07-03 14:00:00+00:00,2026-07-03 10:00:00-04:00,2026-07-03,ISM Services PMI,ism_services,growth,1,US,55.8,52.0,50.6,medium,synthetic_fallback
+2026-07-07 14:00:00+00:00,2026-07-07 10:00:00-04:00,2026-07-07,JOLTS Job Openings,jolts,employment,1,US,7810000.0,7300000.0,6700000.0,medium,synthetic_fallback
+2026-07-09 12:30:00+00:00,2026-07-09 08:30:00-04:00,2026-07-09,Unemployment Claims,other,other,0,US,208000.0,225000.0,233000.0,medium,synthetic_fallback
+2026-07-10 14:00:00+00:00,2026-07-10 10:00:00-04:00,2026-07-10,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,63.4,60.0,64.6,medium,synthetic_fallback
+2026-07-14 12:30:00+00:00,2026-07-14 08:30:00-04:00,2026-07-14,Core CPI m/m,core_cpi,inflation,-1,US,0.2,0.2,0.3,high,synthetic_fallback
+2026-07-14 12:30:00+00:00,2026-07-14 08:30:00-04:00,2026-07-14,CPI y/y,cpi,inflation,-1,US,3.0,2.9,2.8,high,synthetic_fallback
+2026-07-14 12:30:00+00:00,2026-07-14 08:30:00-04:00,2026-07-14,CPI m/m,cpi,inflation,-1,US,0.4,0.2,0.2,high,synthetic_fallback
+2026-07-15 12:30:00+00:00,2026-07-15 08:30:00-04:00,2026-07-15,PPI m/m,ppi,inflation,-1,US,0.2,0.2,0.2,medium,synthetic_fallback
+2026-07-16 12:30:00+00:00,2026-07-16 08:30:00-04:00,2026-07-16,Unemployment Claims,other,other,0,US,226000.0,225000.0,229000.0,medium,synthetic_fallback
+2026-07-22 12:30:00+00:00,2026-07-22 08:30:00-04:00,2026-07-22,Retail Sales m/m,retail_sales,growth,1,US,0.2,0.3,0.2,medium,synthetic_fallback
+2026-07-23 12:30:00+00:00,2026-07-23 08:30:00-04:00,2026-07-23,Unemployment Claims,other,other,0,US,234000.0,225000.0,231000.0,medium,synthetic_fallback
+2026-07-28 14:00:00+00:00,2026-07-28 10:00:00-04:00,2026-07-28,CB Consumer Confidence,consumer_confidence,sentiment,1,US,93.4,95.0,91.2,medium,synthetic_fallback
+2026-07-29 18:00:00+00:00,2026-07-29 14:00:00-04:00,2026-07-29,FOMC Statement / Federal Funds Rate,fomc,monetary_policy,-1,US,3.75,3.75,3.75,high,synthetic_fallback
+2026-07-30 12:30:00+00:00,2026-07-30 08:30:00-04:00,2026-07-30,Advance GDP q/q,gdp,growth,1,US,3.8,2.0,1.3,high,synthetic_fallback
+2026-07-30 12:30:00+00:00,2026-07-30 08:30:00-04:00,2026-07-30,Unemployment Claims,other,other,0,US,229000.0,225000.0,231000.0,medium,synthetic_fallback
+2026-07-31 12:30:00+00:00,2026-07-31 08:30:00-04:00,2026-07-31,Core PCE Price Index m/m,pce,inflation,-1,US,0.1,0.2,0.3,high,synthetic_fallback
+2026-08-03 14:00:00+00:00,2026-08-03 10:00:00-04:00,2026-08-03,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,48.9,49.0,47.7,medium,synthetic_fallback
+2026-08-04 14:00:00+00:00,2026-08-04 10:00:00-04:00,2026-08-04,JOLTS Job Openings,jolts,employment,1,US,7260000.0,7300000.0,7360000.0,medium,synthetic_fallback
+2026-08-05 14:00:00+00:00,2026-08-05 10:00:00-04:00,2026-08-05,ISM Services PMI,ism_services,growth,1,US,53.6,52.0,52.3,medium,synthetic_fallback
+2026-08-06 12:30:00+00:00,2026-08-06 08:30:00-04:00,2026-08-06,Unemployment Claims,other,other,0,US,222000.0,225000.0,209000.0,medium,synthetic_fallback
+2026-08-07 12:30:00+00:00,2026-08-07 08:30:00-04:00,2026-08-07,Non-Farm Employment Change,nfp,employment,1,US,174000.0,150000.0,180000.0,high,synthetic_fallback
+2026-08-07 12:30:00+00:00,2026-08-07 08:30:00-04:00,2026-08-07,Unemployment Rate,unemployment_rate,employment,-1,US,4.2,4.2,4.2,high,synthetic_fallback
+2026-08-07 12:30:00+00:00,2026-08-07 08:30:00-04:00,2026-08-07,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.1,0.3,0.4,medium,synthetic_fallback
+2026-08-13 12:30:00+00:00,2026-08-13 08:30:00-04:00,2026-08-13,CPI m/m,cpi,inflation,-1,US,0.2,0.2,0.3,high,synthetic_fallback
+2026-08-13 12:30:00+00:00,2026-08-13 08:30:00-04:00,2026-08-13,Unemployment Claims,other,other,0,US,218000.0,225000.0,220000.0,medium,synthetic_fallback
+2026-08-13 12:30:00+00:00,2026-08-13 08:30:00-04:00,2026-08-13,Core CPI m/m,core_cpi,inflation,-1,US,0.2,0.2,0.1,high,synthetic_fallback
+2026-08-13 12:30:00+00:00,2026-08-13 08:30:00-04:00,2026-08-13,CPI y/y,cpi,inflation,-1,US,2.9,2.9,2.9,high,synthetic_fallback
+2026-08-14 12:30:00+00:00,2026-08-14 08:30:00-04:00,2026-08-14,PPI m/m,ppi,inflation,-1,US,0.4,0.2,0.1,medium,synthetic_fallback
+2026-08-14 14:00:00+00:00,2026-08-14 10:00:00-04:00,2026-08-14,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,62.2,60.0,58.5,medium,synthetic_fallback
+2026-08-20 12:30:00+00:00,2026-08-20 08:30:00-04:00,2026-08-20,Retail Sales m/m,retail_sales,growth,1,US,0.0,0.3,0.4,medium,synthetic_fallback
+2026-08-20 12:30:00+00:00,2026-08-20 08:30:00-04:00,2026-08-20,Unemployment Claims,other,other,0,US,199000.0,225000.0,240000.0,medium,synthetic_fallback
+2026-08-25 14:00:00+00:00,2026-08-25 10:00:00-04:00,2026-08-25,CB Consumer Confidence,consumer_confidence,sentiment,1,US,98.2,95.0,93.4,medium,synthetic_fallback
+2026-08-27 12:30:00+00:00,2026-08-27 08:30:00-04:00,2026-08-27,Advance GDP q/q,gdp,growth,1,US,2.2,2.0,2.0,high,synthetic_fallback
+2026-08-27 12:30:00+00:00,2026-08-27 08:30:00-04:00,2026-08-27,Unemployment Claims,other,other,0,US,222000.0,225000.0,237000.0,medium,synthetic_fallback
+2026-08-28 12:30:00+00:00,2026-08-28 08:30:00-04:00,2026-08-28,Core PCE Price Index m/m,pce,inflation,-1,US,0.2,0.2,0.4,high,synthetic_fallback
+2026-09-01 14:00:00+00:00,2026-09-01 10:00:00-04:00,2026-09-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,50.5,49.0,49.6,medium,synthetic_fallback
+2026-09-01 14:00:00+00:00,2026-09-01 10:00:00-04:00,2026-09-01,JOLTS Job Openings,jolts,employment,1,US,7950000.0,7300000.0,7810000.0,medium,synthetic_fallback
+2026-09-03 12:30:00+00:00,2026-09-03 08:30:00-04:00,2026-09-03,Unemployment Claims,other,other,0,US,215000.0,225000.0,237000.0,medium,synthetic_fallback
+2026-09-03 14:00:00+00:00,2026-09-03 10:00:00-04:00,2026-09-03,ISM Services PMI,ism_services,growth,1,US,51.5,52.0,52.2,medium,synthetic_fallback
+2026-09-04 12:30:00+00:00,2026-09-04 08:30:00-04:00,2026-09-04,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.3,0.3,0.2,medium,synthetic_fallback
+2026-09-04 12:30:00+00:00,2026-09-04 08:30:00-04:00,2026-09-04,Unemployment Rate,unemployment_rate,employment,-1,US,4.0,4.2,4.2,high,synthetic_fallback
+2026-09-04 12:30:00+00:00,2026-09-04 08:30:00-04:00,2026-09-04,Non-Farm Employment Change,nfp,employment,1,US,262000.0,150000.0,140000.0,high,synthetic_fallback
+2026-09-10 12:30:00+00:00,2026-09-10 08:30:00-04:00,2026-09-10,CPI y/y,cpi,inflation,-1,US,2.8,2.9,2.9,high,synthetic_fallback
+2026-09-10 12:30:00+00:00,2026-09-10 08:30:00-04:00,2026-09-10,Unemployment Claims,other,other,0,US,218000.0,225000.0,227000.0,medium,synthetic_fallback
+2026-09-10 12:30:00+00:00,2026-09-10 08:30:00-04:00,2026-09-10,CPI m/m,cpi,inflation,-1,US,0.2,0.2,0.2,high,synthetic_fallback
+2026-09-10 12:30:00+00:00,2026-09-10 08:30:00-04:00,2026-09-10,Core CPI m/m,core_cpi,inflation,-1,US,-0.1,0.2,0.4,high,synthetic_fallback
+2026-09-11 12:30:00+00:00,2026-09-11 08:30:00-04:00,2026-09-11,PPI m/m,ppi,inflation,-1,US,-0.2,0.2,0.2,medium,synthetic_fallback
+2026-09-11 14:00:00+00:00,2026-09-11 10:00:00-04:00,2026-09-11,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,60.4,60.0,61.5,medium,synthetic_fallback
+2026-09-16 18:00:00+00:00,2026-09-16 14:00:00-04:00,2026-09-16,FOMC Statement / Federal Funds Rate,fomc,monetary_policy,-1,US,4.0,3.75,3.75,high,synthetic_fallback
+2026-09-17 12:30:00+00:00,2026-09-17 08:30:00-04:00,2026-09-17,Unemployment Claims,other,other,0,US,206000.0,225000.0,229000.0,medium,synthetic_fallback
+2026-09-17 12:30:00+00:00,2026-09-17 08:30:00-04:00,2026-09-17,Retail Sales m/m,retail_sales,growth,1,US,0.7,0.3,0.2,medium,synthetic_fallback
+2026-09-22 14:00:00+00:00,2026-09-22 10:00:00-04:00,2026-09-22,CB Consumer Confidence,consumer_confidence,sentiment,1,US,99.8,95.0,92.4,medium,synthetic_fallback
+2026-09-24 12:30:00+00:00,2026-09-24 08:30:00-04:00,2026-09-24,Advance GDP q/q,gdp,growth,1,US,2.9,2.0,3.0,high,synthetic_fallback
+2026-09-24 12:30:00+00:00,2026-09-24 08:30:00-04:00,2026-09-24,Unemployment Claims,other,other,0,US,218000.0,225000.0,213000.0,medium,synthetic_fallback
+2026-09-25 12:30:00+00:00,2026-09-25 08:30:00-04:00,2026-09-25,Core PCE Price Index m/m,pce,inflation,-1,US,0.1,0.2,0.4,high,synthetic_fallback
+2026-10-01 12:30:00+00:00,2026-10-01 08:30:00-04:00,2026-10-01,Unemployment Claims,other,other,0,US,227000.0,225000.0,224000.0,medium,synthetic_fallback
+2026-10-01 14:00:00+00:00,2026-10-01 10:00:00-04:00,2026-10-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,51.3,49.0,49.4,medium,synthetic_fallback
+2026-10-02 12:30:00+00:00,2026-10-02 08:30:00-04:00,2026-10-02,Non-Farm Employment Change,nfp,employment,1,US,56000.0,150000.0,177000.0,high,synthetic_fallback
+2026-10-02 12:30:00+00:00,2026-10-02 08:30:00-04:00,2026-10-02,Unemployment Rate,unemployment_rate,employment,-1,US,4.2,4.2,4.0,high,synthetic_fallback
+2026-10-02 12:30:00+00:00,2026-10-02 08:30:00-04:00,2026-10-02,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,0.3,0.3,0.3,medium,synthetic_fallback
+2026-10-03 14:00:00+00:00,2026-10-03 10:00:00-04:00,2026-10-03,ISM Services PMI,ism_services,growth,1,US,52.4,52.0,51.8,medium,synthetic_fallback
+2026-10-06 14:00:00+00:00,2026-10-06 10:00:00-04:00,2026-10-06,JOLTS Job Openings,jolts,employment,1,US,7100000.0,7300000.0,6970000.0,medium,synthetic_fallback
+2026-10-08 12:30:00+00:00,2026-10-08 08:30:00-04:00,2026-10-08,Unemployment Claims,other,other,0,US,,225000.0,233000.0,medium,synthetic_fallback
+2026-10-09 14:00:00+00:00,2026-10-09 10:00:00-04:00,2026-10-09,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,,60.0,58.8,medium,synthetic_fallback
+2026-10-15 12:30:00+00:00,2026-10-15 08:30:00-04:00,2026-10-15,Unemployment Claims,other,other,0,US,,225000.0,227000.0,medium,synthetic_fallback
+2026-10-16 12:30:00+00:00,2026-10-16 08:30:00-04:00,2026-10-16,CPI y/y,cpi,inflation,-1,US,,2.9,2.9,high,synthetic_fallback
+2026-10-16 12:30:00+00:00,2026-10-16 08:30:00-04:00,2026-10-16,CPI m/m,cpi,inflation,-1,US,,0.2,0.2,high,synthetic_fallback
+2026-10-16 12:30:00+00:00,2026-10-16 08:30:00-04:00,2026-10-16,Core CPI m/m,core_cpi,inflation,-1,US,,0.2,0.2,high,synthetic_fallback
+2026-10-17 12:30:00+00:00,2026-10-17 08:30:00-04:00,2026-10-17,PPI m/m,ppi,inflation,-1,US,,0.2,-0.1,medium,synthetic_fallback
+2026-10-21 12:30:00+00:00,2026-10-21 08:30:00-04:00,2026-10-21,Retail Sales m/m,retail_sales,growth,1,US,,0.3,0.4,medium,synthetic_fallback
+2026-10-22 12:30:00+00:00,2026-10-22 08:30:00-04:00,2026-10-22,Unemployment Claims,other,other,0,US,,225000.0,223000.0,medium,synthetic_fallback
+2026-10-27 14:00:00+00:00,2026-10-27 10:00:00-04:00,2026-10-27,CB Consumer Confidence,consumer_confidence,sentiment,1,US,,95.0,99.5,medium,synthetic_fallback
+2026-10-28 18:00:00+00:00,2026-10-28 14:00:00-04:00,2026-10-28,FOMC Statement / Federal Funds Rate,fomc,monetary_policy,-1,US,,4.0,4.0,high,synthetic_fallback
+2026-10-29 12:30:00+00:00,2026-10-29 08:30:00-04:00,2026-10-29,Advance GDP q/q,gdp,growth,1,US,,2.0,1.7,high,synthetic_fallback
+2026-10-29 12:30:00+00:00,2026-10-29 08:30:00-04:00,2026-10-29,Unemployment Claims,other,other,0,US,,225000.0,224000.0,medium,synthetic_fallback
+2026-10-30 12:30:00+00:00,2026-10-30 08:30:00-04:00,2026-10-30,Core PCE Price Index m/m,pce,inflation,-1,US,,0.2,0.3,high,synthetic_fallback
+2026-11-02 15:00:00+00:00,2026-11-02 10:00:00-05:00,2026-11-02,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,,49.0,48.8,medium,synthetic_fallback
+2026-11-03 15:00:00+00:00,2026-11-03 10:00:00-05:00,2026-11-03,JOLTS Job Openings,jolts,employment,1,US,,7300000.0,7560000.0,medium,synthetic_fallback
+2026-11-05 13:30:00+00:00,2026-11-05 08:30:00-05:00,2026-11-05,Unemployment Claims,other,other,0,US,,225000.0,214000.0,medium,synthetic_fallback
+2026-11-05 15:00:00+00:00,2026-11-05 10:00:00-05:00,2026-11-05,ISM Services PMI,ism_services,growth,1,US,,52.0,52.0,medium,synthetic_fallback
+2026-11-06 13:30:00+00:00,2026-11-06 08:30:00-05:00,2026-11-06,Non-Farm Employment Change,nfp,employment,1,US,,150000.0,100000.0,high,synthetic_fallback
+2026-11-06 13:30:00+00:00,2026-11-06 08:30:00-05:00,2026-11-06,Unemployment Rate,unemployment_rate,employment,-1,US,,4.2,4.3,high,synthetic_fallback
+2026-11-06 13:30:00+00:00,2026-11-06 08:30:00-05:00,2026-11-06,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,,0.3,0.2,medium,synthetic_fallback
+2026-11-11 13:30:00+00:00,2026-11-11 08:30:00-05:00,2026-11-11,CPI m/m,cpi,inflation,-1,US,,0.2,0.3,high,synthetic_fallback
+2026-11-11 13:30:00+00:00,2026-11-11 08:30:00-05:00,2026-11-11,Core CPI m/m,core_cpi,inflation,-1,US,,0.2,0.3,high,synthetic_fallback
+2026-11-11 13:30:00+00:00,2026-11-11 08:30:00-05:00,2026-11-11,CPI y/y,cpi,inflation,-1,US,,2.9,2.8,high,synthetic_fallback
+2026-11-12 13:30:00+00:00,2026-11-12 08:30:00-05:00,2026-11-12,PPI m/m,ppi,inflation,-1,US,,0.2,-0.1,medium,synthetic_fallback
+2026-11-12 13:30:00+00:00,2026-11-12 08:30:00-05:00,2026-11-12,Unemployment Claims,other,other,0,US,,225000.0,229000.0,medium,synthetic_fallback
+2026-11-13 15:00:00+00:00,2026-11-13 10:00:00-05:00,2026-11-13,Prelim UoM Consumer Sentiment,consumer_confidence,sentiment,1,US,,60.0,56.1,medium,synthetic_fallback
+2026-11-18 13:30:00+00:00,2026-11-18 08:30:00-05:00,2026-11-18,Retail Sales m/m,retail_sales,growth,1,US,,0.3,0.0,medium,synthetic_fallback
+2026-11-19 13:30:00+00:00,2026-11-19 08:30:00-05:00,2026-11-19,Unemployment Claims,other,other,0,US,,225000.0,224000.0,medium,synthetic_fallback
+2026-11-24 15:00:00+00:00,2026-11-24 10:00:00-05:00,2026-11-24,CB Consumer Confidence,consumer_confidence,sentiment,1,US,,95.0,93.9,medium,synthetic_fallback
+2026-11-26 13:30:00+00:00,2026-11-26 08:30:00-05:00,2026-11-26,Advance GDP q/q,gdp,growth,1,US,,2.0,1.9,high,synthetic_fallback
+2026-11-26 13:30:00+00:00,2026-11-26 08:30:00-05:00,2026-11-26,Unemployment Claims,other,other,0,US,,225000.0,235000.0,medium,synthetic_fallback
+2026-11-27 13:30:00+00:00,2026-11-27 08:30:00-05:00,2026-11-27,Core PCE Price Index m/m,pce,inflation,-1,US,,0.2,0.2,high,synthetic_fallback
+2026-12-01 15:00:00+00:00,2026-12-01 10:00:00-05:00,2026-12-01,ISM Manufacturing PMI,ism_manufacturing,growth,1,US,,49.0,47.9,medium,synthetic_fallback
+2026-12-01 15:00:00+00:00,2026-12-01 10:00:00-05:00,2026-12-01,JOLTS Job Openings,jolts,employment,1,US,,7300000.0,7490000.0,medium,synthetic_fallback
+2026-12-03 13:30:00+00:00,2026-12-03 08:30:00-05:00,2026-12-03,Unemployment Claims,other,other,0,US,,225000.0,225000.0,medium,synthetic_fallback
+2026-12-03 15:00:00+00:00,2026-12-03 10:00:00-05:00,2026-12-03,ISM Services PMI,ism_services,growth,1,US,,52.0,52.1,medium,synthetic_fallback
+2026-12-04 13:30:00+00:00,2026-12-04 08:30:00-05:00,2026-12-04,Average Hourly Earnings m/m,avg_hourly_earnings,employment,-1,US,,0.3,0.4,medium,synthetic_fallback
+2026-12-04 13:30:00+00:00,2026-12-04 08:30:00-05:00,2026-12-04,Unemployment Rate,unemployment_rate,employment,-1,US,,4.2,4.1,high,synthetic_fallback
+2026-12-04 13:30:00+00:00,2026-12-04 08:30:00-05:00,2026-12-04,Non-Farm Employment Change,nfp,employment,1,US,,150000.0,212000.0,high,synthetic_fallback

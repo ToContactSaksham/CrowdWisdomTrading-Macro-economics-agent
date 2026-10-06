@@ -1,0 +1,4 @@
+trade_id,strategy,permutation_id,lookback,risk_mult,session,symbol,side,entry_time_utc,exit_time_utc,pnl,source
+1,trend,trend|lb20|rm1|us_open,20,1.0,us_open,NQ,short,2026-04-10 13:48:00+00:00,2026-04-10 14:38:00+00:00,65.61,synthetic_fallback
+2,trend,trend|lb20|rm1|us_open,20,1.0,us_open,ES,long,2026-04-10 15:38:00+00:00,2026-04-10 15:43:00+00:00,-23.47,synthetic_fallback
+3,trend,trend|lb20|rm1|us_open,20,1.0,us_open,NQ,long,2026-04-10 15:53:00+00:00,2026-04-10 16:18:00+00:00,-6.41,synthetic_fallback
